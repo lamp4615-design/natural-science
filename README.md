@@ -3,6 +3,7 @@
 國小自然科的題目與練習網頁。
 
 - **線上練習**：https://lamp4615-design.github.io/natural-science/
+- **班級 PK 賽**：https://script.google.com/macros/s/AKfycbwPUDAzfXpJ4mUsxx5PQJ0u74fDB7oXAHhl2bkBlnB-j_CvBTaZGTELhITW6orEgiFo/exec
 - 目前題庫：植物大考驗 30 題（根、莖、葉、受刺激的反應、果實與種子傳播）
 
 ## 結構
